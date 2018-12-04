@@ -1,0 +1,4 @@
+*.ipynb_checkpoints
+images/ani1
+images/ani2
+SwordPhishCredentials.py
